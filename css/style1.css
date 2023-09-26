@@ -8,10 +8,10 @@
 }
 
 body{
-    display: flex;
+    display: flex, block;
     justify-content: center;
     align-items: center;
-    
+    min-height: 100vh;
     background: #081b29;
 }
 

@@ -23,6 +23,9 @@ body{
     border: 2px solid #FDA9DC;
 }
 .wrapper .from-box{
-    display: block;
-    margin-top: 0cm;
+   position: absolute;
+   top: 0;
+   width: 50%;
+   height: 100%;
+   background: red;
 }

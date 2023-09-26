@@ -22,10 +22,13 @@ body{
     background: transparent;
     border: 2px solid #FDA9DC;
 }
-.wrapper .from-box.login{
+.wrapper .from-box {
    position: absolute;
    top: 0;
    width: 50%;
    height: 100%;
    background: red;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
 }

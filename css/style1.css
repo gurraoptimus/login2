@@ -10,14 +10,18 @@
 body{
     display: flex;
     justify-content: center;
+    align-items: center;
     min-height: 100vh;
     background: #081b29;
 }
 
-.wrapper{
+.wrapper {
     position: relative;
     width: 750px;
     height: 450px;
     background: transparent;
     border: 2px solid #FDA9DC;
+}
+.wrapper .from-box{
+    
 }

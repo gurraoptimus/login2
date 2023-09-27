@@ -32,3 +32,8 @@ body{
    flex-direction: column;
    justify-content: center;
 }
+.from-box h2{
+    font-size: 32px;
+    color: #fff;
+    
+}

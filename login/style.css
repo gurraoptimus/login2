@@ -27,7 +27,7 @@ body{
    top: 0%;
    width: 50%;
    height: 100%;
-   background-color:  red;
+   background:  red;
    display: flex;
    flex-direction: column;
    justify-content: center;

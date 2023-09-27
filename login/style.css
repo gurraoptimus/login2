@@ -26,7 +26,7 @@ body{
    position: absolute;
    top: 0%;
    width: 50%;
-   height: 100px;
+   height: 100%;
    background: red;
    display: flex;
    flex-direction: column;

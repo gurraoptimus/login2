@@ -99,6 +99,7 @@ body{
     color: #fff;
     text-align: center;
     margin: 20px 0 10px;
+    background: red;
 }
 .logreg-link p a{
     color: #FDA9DC;

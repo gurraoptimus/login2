@@ -106,6 +106,9 @@ body{
     color: #fff;
     font-weight: 600;
 }
+.btn::before{
+    
+}
 
 .form-box .logreg-link{
     font-size: 14.5px;

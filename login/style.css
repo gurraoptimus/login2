@@ -143,6 +143,9 @@ body{
     width: 50%;
     height: 100%;
     background: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .wrapper .info-text.login{
     right: 0;

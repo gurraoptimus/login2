@@ -41,7 +41,7 @@ body{
 }
 
 .wrapper .form-box.regiser{
-    
+
 }
 
 .form-box h2{
@@ -187,7 +187,7 @@ body{
     left: 250px;
     width: 850px;
     height: 700px;
-    background: linear-gradient(45deg, #081b29, #FDA9DC);
+    background: #081b29;
     border-top: 3px solid #FDA9DC;
     transform: rotate(-11deg) skewY(-41deg);
     transform-origin: bottom left;

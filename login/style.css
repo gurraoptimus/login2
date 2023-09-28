@@ -169,4 +169,5 @@ body{
     height: 600px;
     background: linear-gradient(45deg, #081b29, #FDA9DC);
     transform: rotate(10deg) skewY(40deg);
+    transform-origin: bottom right;
 }

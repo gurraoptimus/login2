@@ -173,6 +173,7 @@ body{
     height: 600px;
     background: linear-gradient(45deg, #081b29, #FDA9DC);
     border: 3px solid #FDA9DC;
-    transform: rotate(10deg) skewY(40deg);
+    /* transform: rotate(10deg) skewY(40deg); */
+    transform: rotate(0) skewY(0);
     transform-origin: bottom right;
 }

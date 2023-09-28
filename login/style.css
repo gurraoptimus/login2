@@ -55,8 +55,12 @@ body{
     border: none;
     outline: none;
     border-bottom: 2px solid #fff;
+    transition: .5s;
 }
-
+.input-box input:focus,
+.input-box input:valid{
+    border-bottom-color:#FDA9DC ;
+}
 .input-box label{
     position: absolute;
     top: 50%;

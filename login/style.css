@@ -65,6 +65,11 @@ body{
     color: #fff;
     pointer-events: none;
 }
+.input-box input:focus~label,
+.input-box input:valid~label{
+    
+}
+
 .input-box i{
     position: absolute;
     top: 50%;

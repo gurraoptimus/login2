@@ -41,7 +41,8 @@ body{
 }
 
 .wrapper .form-box.regiser{
-
+    right: 0;
+    padding: 0 40px 0 60px;
 }
 
 .form-box h2{

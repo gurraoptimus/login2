@@ -183,7 +183,7 @@ body{
 }
 .wrapper .bg-animate2{
     position: absolute;
-    top: 100%px;
+    top: 100%;
     left: 250px;
     width: 850px;
     height: 700px;
@@ -191,5 +191,4 @@ body{
     border-top: 3px solid #FDA9DC;
     transform: rotate(-11deg) skewY(-41deg);
     transform-origin: bottom left;
-
     }

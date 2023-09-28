@@ -150,3 +150,9 @@ body{
 .wrapper .info-text.login{
     right: 0;
 }
+.info-text h2{
+    font-size: 36px;
+    color: #fff;
+    line-height: 1.3;
+    
+}

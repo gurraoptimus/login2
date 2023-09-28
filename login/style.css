@@ -106,6 +106,7 @@ body{
     color: #fff;
     font-weight: 600;
     z-index: 1;
+    overflow: hidden;
 }
 .btn::before{
     content: "";
@@ -116,9 +117,10 @@ body{
     height: 300%;
     background: linear-gradient(#081b29,#FDA9DC, #081b29,#FDA9DC);
     z-index: -1;
+    transition: .5s;
 }
 .btn:hover:before{
-    
+    top: 0;
 }
 
 .form-box .logreg-link{

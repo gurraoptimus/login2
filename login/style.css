@@ -68,7 +68,8 @@ body{
 }
 .input-box input:focus~label,
 .input-box input:valid~label{
-
+    top: -5px;
+    color: #FDA9DC;
 }
 
 .input-box i{

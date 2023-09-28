@@ -76,7 +76,6 @@ body{
     top: -5px;
     color: #FDA9DC;
 }
-
 .input-box i{
     position: absolute;
     top: 50%;
@@ -84,6 +83,11 @@ body{
     transform: translateY(-50%);
     font-size: 18px;
     color: #fff;
+    transition: .5s;
+}
+.input-box input:focus~i,
+.input-box input:valid~i{
+    color: #FDA9DC;
 }
 .btn {
     position: relative;

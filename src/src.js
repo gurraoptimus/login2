@@ -3,5 +3,5 @@ const regiserlink = document.querySelector(".regiser-link");
 const loginlink = document.querySelector(".login-link");
 
 regiserlink.onclick =() =>{
-    wrapper.
+    wrapper.classList.add("active");
 }

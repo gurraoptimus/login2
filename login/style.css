@@ -43,6 +43,7 @@ body{
 .wrapper .form-box.regiser{
     right: 0;
     padding: 0 40px 0 60px;
+    display: none;
 }
 
 .form-box h2{
@@ -158,6 +159,12 @@ body{
     right: 0;
     text-align: right;
     padding: 0 40px 60px 150px;
+    display: none;
+}
+.wrapper .info-text.regiser{
+    left: 0;
+    text-align: left;
+    padding: 0 150px 60px 40px;
     display: none;
 }
 .info-text h2{

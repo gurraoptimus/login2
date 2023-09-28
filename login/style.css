@@ -142,7 +142,6 @@ body{
     top: 0;
     width: 50%;
     height: 100%;
-    background: red;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -150,6 +149,7 @@ body{
 .wrapper .info-text.login{
     right: 0;
     text-align: right;
+    padding: 0 40px 60px 150px;
 }
 .info-text h2{
     font-size: 36px;

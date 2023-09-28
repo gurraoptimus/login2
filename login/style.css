@@ -137,3 +137,8 @@ body{
 .logreg-link p a:hover{
     text-decoration: underline;
 }
+.wrapper .info-text{
+    position: absolute;
+    top: 0;
+    width: 50%;
+}

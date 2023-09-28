@@ -32,6 +32,12 @@ body{
    flex-direction: column;
    justify-content: center;
 }
+
+.wrapper .from-box.login{
+    left: 0;
+    padding: 0 40px;
+}
+
 .from-box h2{
     font-size: 32px;
     color: #fff;
@@ -93,5 +99,5 @@ body{
     font-weight: 600;   
 }
 .logreg-link p a:hover{
-    
+    text-decoration: underline;
 }

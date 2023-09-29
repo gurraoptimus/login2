@@ -39,6 +39,10 @@ body{
     padding: 0 60px 0 40px;
 }
 
+.wrapper .form-box.login .animation{
+    
+}
+
 .wrapper .form-box.regiser{
     right: 0;
     padding: 0 40px 0 60px;

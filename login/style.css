@@ -227,7 +227,11 @@ body{
     height: 700px;
     background: #081b29;
     border-top: 3px solid #FDA9DC;
-    /*transform: rotate(-11deg) skewY(-41deg);*/
     transform: rotate(0) skewY(0);
     transform-origin: bottom left;
+    transition: 1.5s ease;
+}
+.wrapper.active .bg-animate2{
+    transform: rotate(-11deg) skewY(-41deg);
+    
 }

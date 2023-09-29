@@ -173,6 +173,20 @@ body{
     text-align: right;
     padding: 0 40px 60px 150px;
 }
+
+.wrapper .info-text.login .animation{
+    transform: translateX(0);
+    opacity: 1;
+    filter: blur(0);
+    transition: .7s ease;
+}
+
+.wrapper.active .info-text.login .animation{
+    transform: translateX(-120%);
+    opacity: 0;
+    filter: blur(10px);
+    transition-delay: calc(.1s * var(--i));
+}
 .wrapper .info-text.regiser{
     left: 0;
     text-align: left;

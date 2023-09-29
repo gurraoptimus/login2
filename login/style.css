@@ -41,6 +41,7 @@ body{
 
 .wrapper .form-box.login .animation{
     transform: translateX(0);
+    
 }
 
 .wrapper .active .form-box.login .animation{

@@ -41,7 +41,7 @@ body{
 
 .wrapper .form-box.login .animation{
     transform: translateX(0);
-    
+    transition: .7s ease;
 }
 
 .wrapper .active .form-box.login .animation{

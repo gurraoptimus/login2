@@ -192,6 +192,7 @@ body{
     left: 0;
     text-align: left;
     padding: 0 150px 60px 40px;
+    pointer-events: none;
 }
 .wrapper .info-text.regiser .animation{
     transform: translateX(-120%); 

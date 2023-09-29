@@ -57,7 +57,9 @@ body{
     right: 0;
     padding: 0 40px 0 60px;
 }
-
+.wrapper .form-box.regiser .animation{
+    transform: translateX(120%); 
+}
 .form-box h2{
     font-size: 32px;
     color: #fff;
@@ -191,6 +193,11 @@ body{
     text-align: left;
     padding: 0 150px 60px 40px;
 }
+.wrapper .info-text.regiser .animation{
+    transform: translateX(-120%); 
+}
+
+
 .info-text h2{
     font-size: 36px;
     color: #fff;

@@ -233,5 +233,6 @@ body{
 }
 .wrapper.active .bg-animate2{
     transform: rotate(-11deg) skewY(-41deg);
+    transition: 1.2s;
     
 }

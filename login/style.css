@@ -22,7 +22,7 @@ body{
     background: transparent;
     border: 2px solid #FDA9DC;
     box-shadow: 0 0 25px #FDA9DC;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 .wrapper .form-box {
    position: absolute;

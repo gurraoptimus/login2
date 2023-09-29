@@ -212,8 +212,12 @@ body{
     background: linear-gradient(45deg, #081b29, #FDA9DC);
     border-bottom: 3px solid #FDA9DC;
     transform: rotate(10deg) skewY(40deg);
-    /*transform: rotate(0) skewY(0);*/
     transform-origin: bottom right;
+    transition: 1.5s ease;
+}
+.wrapper.active .bg-animate{
+    transform: rotate(0) skewY(0);
+    transition-delay: .5s;
 }
 .wrapper .bg-animate2{
     position: absolute;

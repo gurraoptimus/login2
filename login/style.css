@@ -182,7 +182,7 @@ body{
 }
 
 .wrapper.active .info-text.login .animation{
-    transform: translateX(-120%);
+    transform: translateX(120%);
     opacity: 0;
     filter: blur(10px);
     transition-delay: calc(.1s * var(--i));

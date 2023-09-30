@@ -67,6 +67,7 @@ body{
     transform: translateX(0);
     opacity: 1;
     filter: blur(0);
+    transition-delay: calc(.1s * var(--i));
 }
 .form-box h2{
     font-size: 32px;

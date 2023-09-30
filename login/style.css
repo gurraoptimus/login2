@@ -188,6 +188,7 @@ body{
     opacity: 1;
     filter: blur(0);
     transition: .7s ease;
+    transition-delay: calc(.1s * var(--j));
 }
 .wrapper.active .info-text.login .animation{
     transform: translateX(120%);
@@ -235,6 +236,7 @@ body{
     transform: rotate(10deg) skewY(40deg);
     transform-origin: bottom right;
     transition: 1.5s ease;
+    transition-delay: 1.6s;
 }
 .wrapper.active .bg-animate{
     transform: rotate(0) skewY(0);
@@ -251,6 +253,7 @@ body{
     transform: rotate(0) skewY(0);
     transform-origin: bottom left;
     transition: 1.5s ease;
+    transition: .5s;
 }
 .wrapper.active .bg-animate2{
     transform: rotate(-11deg) skewY(-41deg);

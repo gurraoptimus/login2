@@ -5,3 +5,6 @@ const loginlink = document.querySelector(".login-link");
 regiserlink.onclick =() => {
     wrapper.classList.add("active");
 }
+loginlink.onclick =() => {
+    wrapper.classList.remove("active");
+}
